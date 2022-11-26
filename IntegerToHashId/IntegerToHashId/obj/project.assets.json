@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Hashids.net/1.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Hashids.net.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Hashids.net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hashids.net/1.5.0": {
+      "sha512": "w7ryATrPK3w2QcNIOC5wFsnY1EnLGmMqNgFvOenNlaYZ07vdSdw4ktsa6YvHNCfawH2kYvMGOSus3CJaxUumWg==",
+      "type": "package",
+      "path": "hashids.net/1.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "hashids.net.1.5.0.nupkg.sha512",
+        "hashids.net.nuspec",
+        "hashids.png",
+        "lib/net5.0/Hashids.net.dll",
+        "lib/net5.0/Hashids.net.xml",
+        "lib/net6.0/Hashids.net.dll",
+        "lib/net6.0/Hashids.net.xml",
+        "lib/netstandard2.0/Hashids.net.dll",
+        "lib/netstandard2.0/Hashids.net.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Hashids.net >= 1.5.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gunes\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gunes\\Desktop\\csharp examples\\IntegerToHashId\\IntegerToHashId\\IntegerToHashId.csproj",
+      "projectName": "IntegerToHashId",
+      "projectPath": "C:\\Users\\gunes\\Desktop\\csharp examples\\IntegerToHashId\\IntegerToHashId\\IntegerToHashId.csproj",
+      "packagesPath": "C:\\Users\\gunes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gunes\\Desktop\\csharp examples\\IntegerToHashId\\IntegerToHashId\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\gunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Hashids.net": {
+            "target": "Package",
+            "version": "[1.5.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

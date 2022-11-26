@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IntegerToHashId/1.0.0": {
+        "dependencies": {
+          "Hashids.net": "1.5.0"
+        },
+        "runtime": {
+          "IntegerToHashId.dll": {}
+        }
+      },
+      "Hashids.net/1.5.0": {
+        "runtime": {
+          "lib/net5.0/Hashids.net.dll": {
+            "assemblyVersion": "1.5.0.0",
+            "fileVersion": "1.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntegerToHashId/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hashids.net/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w7ryATrPK3w2QcNIOC5wFsnY1EnLGmMqNgFvOenNlaYZ07vdSdw4ktsa6YvHNCfawH2kYvMGOSus3CJaxUumWg==",
+      "path": "hashids.net/1.5.0",
+      "hashPath": "hashids.net.1.5.0.nupkg.sha512"
+    }
+  }
+}

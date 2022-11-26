@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EyROJ9JOCukpmqay46ms3kF+wj+NyMhz8EA9zFg2DNyuusnHPXWXk+JLNm6Cf+ugCVjtDEftVlvCYcTzn7mXvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gunes\\Desktop\\csharp examples\\IntegerToHashId\\IntegerToHashId\\IntegerToHashId.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gunes\\.nuget\\packages\\hashids.net\\1.5.0\\hashids.net.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
