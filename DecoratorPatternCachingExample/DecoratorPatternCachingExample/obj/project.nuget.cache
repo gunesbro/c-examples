@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oHu6s9x/FOPvN+U+1t7GBd0me1BDb4icfxyIdy9rAIcDueHL1D5kdvu8WGJOrpgxuolKGUJIRrfpyGyo/a+weA==",
+  "success": true,
+  "projectFilePath": "D:\\HDD\\csharp examples\\DecoratorPatternCachingExample\\DecoratorPatternCachingExample\\DecoratorPatternCachingExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gunes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
