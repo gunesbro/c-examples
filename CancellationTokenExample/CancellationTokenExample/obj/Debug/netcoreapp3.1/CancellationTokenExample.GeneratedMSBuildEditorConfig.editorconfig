@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CancellationTokenExample
+build_property.ProjectDir = D:\HDD\csharp examples\CancellationTokenExample\CancellationTokenExample\
